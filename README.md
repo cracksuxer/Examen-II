@@ -13,7 +13,7 @@
 
 ## Hacer que 1 araña salte todo el rato, otra araña se mueve en dos posiciones donde se escogen aleatoriamente y una última araña que vaya a una silla y se quede ahí
 ### Para ello se crearon los script SpiderA, SpiderB y SpiderC.
-![Ejercicio4](3.gif)
+![Ejercicio4](4.gif)
 
 ## Crear un script que al tocar una cama mueva aleatoriamente de sentido las otras camas y haga saltas todas las sillas
 ## Se utilizaron eventos dentro de los scripts de Bet y Chair.
